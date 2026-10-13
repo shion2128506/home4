@@ -6,8 +6,10 @@ void option16();
 
 int main()
 {
-	setlocale(LC_ALL, "RUS");
-	option16();
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "RUS");
+    option16();
 }
 
 void option16()
