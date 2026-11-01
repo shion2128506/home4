@@ -8,4 +8,4 @@
 
 ## Блок-схема
 
-![Блок-схема алгоритма](https://github.com/shion2128506/home4/blob/master/homework4/%D0%B4%D0%B74.PNG?raw=true)
+![Блок-схема алгоритма](https://github.com/shion2128506/home4/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
